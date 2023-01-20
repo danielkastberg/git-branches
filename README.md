@@ -1,6 +1,7 @@
 # git-branches
 
-Are you tired of copy pasting long branch names to just check it out? Me too! That's why I made this `oh-my-zsh` plugin. This plugin lists all the local/remote branches you have prepended with a number and you just have to type the corresponding number to switch to the branch! 🕺🏻
+Fork from https://github.com/Schroefdop/git-branches. 
+Contins small modifications to make it available for Prezto and change of alias to avoid conflict with git alias.
 
 ![](https://media.giphy.com/media/jVT7YO7XwLfhCkMWxt/giphy.gif)
 
